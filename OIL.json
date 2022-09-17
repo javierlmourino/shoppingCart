@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "CHARLOTTE'S WEB CBD OIL 16mg",
+        "category" : "THC-Free",
+        "price" : "48.20",
+        "imgSrc" : "./images/cbd16.webp"
+    },
+    {
+        "name" : "CHARLOTTE'S WEB CBD OIL 60mg",
+        "category" : "CBD",
+        "price" : "102.00",
+        "imgSrc" : "images/cbd60.webp"
+    },
+    {
+        "name" : "Bench",
+        "category" : "CHARLOTTE'S WEB Sleep Gummies",
+        "price" : "35.00",
+        "imgSrc" : "images/cbdgummiessleep.webp"
+    },
+    {
+        "name" : "CHARLOTTE'S WEB Recovery Gummies",
+        "category" : "THC-Free",
+        "price" : "48.50",
+        "imgSrc" : "images/cbdgummiesrecovery.webp"
+    }
+]
